@@ -1,0 +1,44 @@
+Input:
+Enter the Principal Amount:
+2000
+Enter the Time Period:
+1
+Enter the Rate of Interest:
+50
+Choose one options from below options:
+1:Simple Interest
+2:Compound Interest
+1
+
+Output:
+Simple Interest is :1000.0
+
+Input:
+Enter the Principal Amount:
+5000
+Enter the Time Period:
+10
+Enter the Rate of Interest:
+20
+Choose one options from below options:
+1:Simple Interest
+2:Compound Interest
+2
+
+Output:
+Compound Interest :30958.682111999988
+
+Input:
+Enter the Principal Amount:
+-20000
+Enter the Time Period:
+30
+Enter the Rate of Interest:
+-15
+Choose one options from below options:
+1:Simple Interest
+2:Compound Interest
+1
+
+Output:
+Input Should not be negative values..
